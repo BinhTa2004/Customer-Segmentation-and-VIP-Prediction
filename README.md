@@ -1,4 +1,4 @@
-# 🧠 Customer Segmentation and VIP Prediction
+# 🧠 Analyze and Predict Potential Customers Based on Customer Clustering
 
 Customer segmentation plays a vital role in designing effective marketing strategies to drive business growth and maximize revenue. This project presents a full machine learning pipeline combining **dimensionality reduction**, **unsupervised clustering**, and **supervised classification** to understand customer behavior and predict potential high-value customers.
 
