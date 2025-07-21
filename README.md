@@ -27,10 +27,10 @@ After identifying distinct customer segments, we perform a focused analysis on *
 
 - Reduced dimensionality while preserving customer behavior patterns
 - Removed noise (≈8%) via DBSCAN, improving cluster clarity
-- Identified 5 customer clusters, including:
+- Identified 3 customer clusters, including:
   - **VIPs** – High spending & frequency
   - **Loyal customers** – Moderate spending, high consistency
-  - **Budget buyers** – Low spending, infrequent visits
+  - **Normally** – Low spending, infrequent visits
 - Discovered a subset of loyal customers with VIP-like profiles
 - Built classifier to predict **new high-potential customers**
   
@@ -39,9 +39,13 @@ After identifying distinct customer segments, we perform a focused analysis on *
 ## 💡 Business Value
 
 ✅ Gain deep insights into diverse customer segments
+
 ✅ Identify loyal customers with potential to become VIPs
+
 ✅ Predict emerging high-value customer prospects early
+
 ✅ Optimize retention and acquisition strategies effectively
+
 🎯 Enhance marketing efficiency, reduce costs, and drive long-term revenue growth
 
 ---
