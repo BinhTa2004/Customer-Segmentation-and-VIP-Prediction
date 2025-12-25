@@ -68,4 +68,4 @@ After identifying distinct customer segments, we perform a focused analysis on *
 ---
 
 ## 👤 Author
-Ta Cong Binh, Ngo Chi Trung, Hoang Anh Tu & Phan Duy Hung(corresponding author)  
+Ta Cong Binh, Ngo Chi Trung, Hoang Anh Tu & Phan Duy Hung (corresponding author)  
